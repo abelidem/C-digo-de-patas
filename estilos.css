@@ -1,0 +1,50 @@
+header{
+padding: 30px;
+text-align: center;
+background-color: purple;
+color: white;
+margin: 0px 0px;
+}
+
+section{
+text-align: center;
+background-color: blue;
+color: white;
+height: 350px;
+width: 80%;
+display: inline-block;
+position: absolute;
+top: 102px;
+bottom:0;
+right:150px;
+left:265px;
+}
+
+p{
+	text-align: center;
+	margin: 0px;
+}
+
+nav{ 
+color: white;
+background: red;
+height: 350px;
+width: 20%;
+display: inline-block;
+}
+
+
+
+p{
+background: purple;
+height: 35px;
+} 
+
+footer{ 
+background: aqua;
+text-align: center;
+height: 100px;
+padding: 5px;
+font-size: 30px; 
+margin: 0px;
+}
