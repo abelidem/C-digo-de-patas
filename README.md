@@ -20,17 +20,17 @@
 
 		<article>
 	
-					<h2> My Seccion</h2>
-					<p> Articulo</p>
-					<br>
-					<p> Articulo</p>
-					<br>
-					<p> Articulo</p>
-					<br>
-					<p> Articulo</p>
-					<br>
-					<p> Articulo</p>
-					<br>
+				<h2> My Seccion</h2>
+				<p> Articulo</p>
+				<br>
+				<p> Articulo</p>
+				<br>
+				<p> Articulo</p>
+				<br>
+				<p> Articulo</p>
+				<br>
+				<p> Articulo</p>
+				<br>
 		
 		</article>
 
